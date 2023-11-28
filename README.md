@@ -1,1 +1,1 @@
-# ClinicaDental
+# Proyecto
